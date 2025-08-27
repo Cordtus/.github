@@ -2,7 +2,7 @@
 
 A collection of teams working on decentralized technology for the internet of blockchains - The Interchain.
 
-| Quick Start | Support & Community: [Interchain Discord](https://discord.com/invite/interchain) - [Interchain Telegram](https://t.me/CosmosOG) | Technical Hub: [GitHub Discussions](https://github.com/orgs/cosmos/discussions) |
+| Need Help? | Support & Community: [Interchain Discord](https://discord.com/invite/interchain) - [Interchain Telegram](https://t.me/CosmosOG) | Technical Hub: [GitHub Discussions](https://github.com/orgs/cosmos/discussions) |
 | :-----------: | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
 
 ## Interchain Stack Components
