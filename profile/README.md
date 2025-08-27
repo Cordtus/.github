@@ -17,7 +17,7 @@ A collection of teams working on decentralized technology for the internet of bl
 |       [Rust Crate](https://crates.io/crates/chain-registry)\*      |                                                        |                                             |                                                    | [Cosmwasm Optimizer Crate](https://github.com/CosmWasm/optimizer)\* |          [InterchainJS](https://github.com/hyperweb-io/interchainjs)\*          |                   [ibc-rs](https://github.com/cosmos/ibc-rs)                   |                                                             |
 | [Utilities](https://www.npmjs.com/package/@chain-registry/utils) |                                                        |                                             |                                                    |                                                                     |            [Telescope](https://github.com/cosmology-tech/telescope)\*           |                                                                                |                                                             |
 
-> **Note:** Projects marked with an asterisk (\*) are community or third-party maintained. They are not directly maintained by the Interchain Labs team.
+> **Note:** Projects marked with an asterisk (\*) are community or third-party maintained. They are not directly maintained by Cosmos Labs.
 
 
 ### [Security](https://github.com/interchainio/security) - for all updates and processes
