@@ -19,7 +19,6 @@ A collection of teams working on decentralized technology for the internet of bl
 
 > **Note:** Projects marked with an asterisk (\*) are community or third-party maintained. They are not directly maintained by Cosmos Labs.
 
-
 ### [Security](https://github.com/interchainio/security) - for all updates and processes
 
 #### Participate: [Interchain Developers Discord](https://discord.com/invite/interchain) - [Discussions & Product Feedback](https://github.com/orgs/cosmos/discussions) - [Cosmos Hub Forum](https://forum.cosmos.network)
